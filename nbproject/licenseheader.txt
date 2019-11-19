@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Proyecto Calculadora
+${licensePrefix}Hecho por Sebastian Catano, Tom Cruz, Carlos Fuentes y Alexander Roman ${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
